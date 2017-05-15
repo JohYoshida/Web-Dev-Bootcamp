@@ -1,0 +1,10 @@
+Hello from the message.txt file!!!!
+
+Goodbye!!!
+
+ls
+cd
+touch
+mkdir
+rm
+rm -rf
